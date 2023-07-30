@@ -632,7 +632,7 @@ body {
   transform: translateY(0%);
 }
 
-.seconds-link:focus .second-cover-text {
+.second-link:focus .second-cover-text {
   transform: translateY(0%);
 }
 
